@@ -1,0 +1,2 @@
+MAIN_BRACKETS = { SOI ~ "{" ~ SPACE* ~ "}" ~ EOI }
+SPACE = _{ " " }
