@@ -8,3 +8,5 @@ description = "Парсер, який реалізує граматику для
 pest_derive = "2.7.14"
 pest = "2.7.14"
 anyhow = "1.0.91"
+clap = "4.5.21"
+thiserror = "2.0.3"
